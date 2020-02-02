@@ -1,16 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.62229.wang/four.html</loc>
+    <loc>https://www.62229.wang/two.html</loc>
     <lastmod>2020-02-02</lastmod>
   </url>  <url>
     <loc>https://www.62229.wang/three.html</loc>
-    <lastmod>2020-02-01</lastmod>
-  </url>  <url>
-    <loc>https://www.62229.wang/two.html</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2020-02-02</lastmod>
   </url>  <url>
     <loc>https://www.62229.wang/one.html</loc>
-    <lastmod>2020-01-31</lastmod>
+    <lastmod>2020-02-02</lastmod>
+  </url>  <url>
+    <loc>https://www.62229.wang/four.html</loc>
+    <lastmod>2020-02-02</lastmod>
+  </url>  <url>
+    <loc>https://www.62229.wang/five.html</loc>
+    <lastmod>2020-02-02</lastmod>
   </url>
 </urlset>
