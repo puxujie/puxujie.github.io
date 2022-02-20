@@ -892,7 +892,7 @@ kbd {
   z-index: 0;
   width: 100%;
   height: 100%;
-  background: url("http://www.793200.xyz/static/images/bj.jpg?e=1645340359&token=_-Bx2sRGKypcFQsPR4Z928FiMkPd-fjrwxyVODQb:-he1DRf-oj65106WavmAZGcHtpo=") no-repeat center/cover;
+  background: url("/assets/bj.jpg") no-repeat center/cover;
 }
 .header-banner-info {
   position: absolute;
